@@ -1,1 +1,2 @@
 Sprawdzamy działanie!!!
+Powtarzamy jeszcze raz początkowe działanie i proste komenty w git.
